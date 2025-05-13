@@ -1,6 +1,6 @@
-"scripts": {
-  "start": "node App.js",
-  "build": "react-scripts build",   // if frontend
-  "dev": "vite dev",                 // if using Vite
-  "serve": "npm run build && serve -s dist"
+{
+  "scripts": {
+  "start": "npm run start",
+  "build": "npm run build", 
+  }
 }
